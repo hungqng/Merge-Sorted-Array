@@ -1,7 +1,7 @@
-# Merge-Sorted-Array-PY
+# Merge-Sorted-Array
 Leetcode practice #88
 
 ## Built With
-- Leetcode
+- LeetCode
 - Python
 - VS Code
